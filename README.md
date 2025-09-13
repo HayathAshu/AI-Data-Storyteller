@@ -27,17 +27,3 @@ It is an **AI-powered Data Storytelling App** that automatically analyzes datase
 - 🖥️ **Interactive dashboard** built with [Streamlit](https://streamlit.io/)
 
 ---
-
-## 🛠️ Installation & Setup
-
-### 1. Clone or download the project
-Save the file **`Imarticus_AI_Data_Storyteller_app.py`** in a folder.
-
-### 2. Create a virtual environment (optional but recommended)
-```bash
-python -m venv venv
-# Activate it:
-# Windows:
-venv\Scripts\activate
-# Mac/Linux:
-source venv/bin/activate
